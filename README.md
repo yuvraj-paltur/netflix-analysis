@@ -44,9 +44,6 @@ netflix-analysis/
 ### Top Genres
 ![Top Genres](images/top_genres.png)
 
-### Country-wise Content
-![Country](images/country.png)
-
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
