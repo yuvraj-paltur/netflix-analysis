@@ -36,10 +36,10 @@ netflix-analysis/
 
 ## Visualizations
 ### Content Type Distribution
-![Content Type](images/content_type.png)
+![Content Type](images/movies_vs_tv_shows.png)
 
 ### Release Year Trend
-![Release Trend](images/release_trend.png)
+![Release Trend](images/content_release_trend.png)
 
 ### Top Genres
 ![Top Genres](images/top_genres.png)
